@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "gml",
+	"author": "TM",
+	"description": "Exports a CSV list of Guild Members and their details",
+	"options": { 
+		"niceName": "Guild Members",
+        "guiName": "Guild Members"
+		},
+	"servers": ["https://raw.githubusercontent.com/TerableMods/gml/master/"],
+	"supportUrl": "https://github.com/TerableMods/gml/issues"
+}

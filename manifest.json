@@ -1,0 +1,12 @@
+{
+	"files": {
+		"README.md": "13abf69d22f27cd5d7d9ec3cf87534782cfe6025e0241f2a4743644791031edc",
+	    "index.js": "4b8d58a7b81a0b00d75a76e88917ed0d43bf743b3a50248030669e9e411eba81",
+	    "module.json": "c0cf003faa01090c5ffe2e0625bbfd975da5a4af209f94f890235c74103b4166"
+	},
+	"defs": {
+		"S_LOGIN": 14,
+		"S_GUILD_MEMBER_LIST": 1,
+		"S_CHAT": 3
+	}
+}
